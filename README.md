@@ -54,7 +54,7 @@ to proxy to tunnel over ShadowsocksR
 
 ### Develop
 
-Visual Studio Express 2012 is recommended.
+Visual Studio Express 2015 is recommended.
 
 #### License
 
